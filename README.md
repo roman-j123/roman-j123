@@ -1,6 +1,8 @@
 <div align='right'>
-  <h1>Hi there 👋</h1>Я начинающий frontend-разработчик
-
+  <h1>Hi there 👋</h1>
+  
+  Я начинающий frontend-разработчик <br />
+  [hh.ru](https://hh.ru/resume/43e3af51ff01c1bf5e0039ed1f6a7667436963) | [habr.career](https://career.habr.com/roman-j123) <br />
   `const JOB_SEARCH = true;`
 </div>
 
